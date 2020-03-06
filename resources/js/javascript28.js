@@ -1,0 +1,1 @@
+open("http://www.easyspub.com", "새 창", "width=350, height=400, left=50, top=10, scrollbars=no, location=no, status=no, toolbars=no");

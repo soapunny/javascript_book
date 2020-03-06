@@ -1,0 +1,1 @@
+window.open("./popup.html", "엔젤", "width=720, height=960, left=50, top=0, scrollbars=yes");
